@@ -2,8 +2,8 @@
 
 ## Watch the video to get the gist of the project
 
-<img src="https://github.com/DivyanshMalhotra/Future-Gadget-Labs-HINT/blob/master/youtubevid.png" align="centre">
-[![Watch the video](https://raw.github.com/chetanchawla/Future-Gadget-Labs-HINT/blob/master/youtubevid.png)](https://www.youtube.com/watch?v=hwYVPCROWzE)
+
+[![Watch the video](https://github.com/chetanchawla/Future-Gadget-Labs-HINT/blob/master/youtubevid.png)](https://www.youtube.com/watch?v=hwYVPCROWzE)
 
 
 ## Meishu: A Drone Based Rescue System
