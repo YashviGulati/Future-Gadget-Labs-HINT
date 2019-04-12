@@ -2,7 +2,7 @@
 
 #Watch the video to get the gist of the project
 
-[![Watch the video](https://raw.github.com/chetanchawla/Future-Gadget-Labs-HINT/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=hwYVPCROWzE)
+[![Watch the video](https://raw.github.com/chetanchawla/Future-Gadget-Labs-HINT/youtubevid.png)](https://www.youtube.com/watch?v=hwYVPCROWzE)
 
 
 ## Meishu: A Drone Based Rescue System
